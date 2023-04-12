@@ -1,0 +1,52 @@
+.konum {
+    /* position:absolute; */
+    /* margin-left: 500px;
+    top: 100px; */
+    text-align: center;
+}
+
+.yazi {
+    text-align: center;
+    line-height: 0px;
+}
+
+.span>input {
+    border: 1px;
+    width: 140px;
+    height: 300px;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}
+
+.box1 {
+    background-color: #7EE5DA;
+    /* margin-left: 30px; */
+    width: 600px;
+    height: 70px;
+    padding: 10px 30px;
+    text-align: center;
+
+    
+}
+
+.box2 {
+    background-color: #70CCC2;
+    width: 350px;
+    height: 70px;
+    padding: 10px 30px;
+    text-align: center; 
+    margin:0px 2px 0px 2px; 
+}
+
+.box3 {
+    background-color: #62B3AA;
+    width: 600px;
+    height: 70px;
+    padding-bottom : 20px;
+    text-align: center;
+    font-size: small;
+}
